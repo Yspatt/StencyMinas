@@ -1,0 +1,9 @@
+name: StencyMinas
+version: ${project.version}
+main: br.com.stency.minas.Minas
+api-version: 1.13
+prefix: StencyMinas
+depend: [Common]
+authors: [Yspatt]
+description: A mines plugin
+website: stencynetwork.com

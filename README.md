@@ -1,1 +1,2 @@
-# StencyMinas
+# Minas
+
